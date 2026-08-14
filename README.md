@@ -3,7 +3,7 @@
 A modern, highly-customized Authenticator Proof of Concept (POC) built with Flutter. This app generates Time-Based One-Time Passwords (TOTP) for Two-Factor Authentication (2FA) and is designed to be a sleek alternative to existing authenticator apps like Google or Microsoft Authenticator.
 
 ### Demo
-<video src="doc/screen-record.mp4" controls="controls" muted="muted" width="300"></video>
+https://github.com/Mahesh-Langote/authenticator-flutter/raw/main/doc/screen-record.mp4
 
 ## ✨ Features
 
