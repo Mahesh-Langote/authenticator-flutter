@@ -5,6 +5,8 @@ A modern, highly-customized Authenticator Proof of Concept (POC) built with Flut
 ### Demo
 <video src="https://github.com/Mahesh-Langote/authenticator-flutter/raw/main/doc/screen-record.mp4" controls="controls" muted="muted" width="300"></video>
 
+https://github.com/user-attachments/assets/61ecab75-a7a7-408f-8faf-2b621dbeeee8
+
 > 🎥 **[Click here to watch the Demo Video](https://github.com/Mahesh-Langote/authenticator-flutter/blob/main/doc/screen-record.mp4)** if it doesn't load automatically above.
 
 ## ✨ Features
